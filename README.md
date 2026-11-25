@@ -1,4 +1,4 @@
-# Phase-2-Terraform
+# Phase 2 Terraform
 
 ### Step 16: OIDC sign-in
 
